@@ -1,0 +1,19 @@
+.gradle
+.cashe
+bin
+
+Reports
+
+Libs
+
+output
+
+!output/.gitkeep
+build
+
+.classpath
+
+.project
+.cache/Keywords/customkeywords__Keywords
+appium.log
+.cache/Keywords/..__Test Listeners__NewTestListener
